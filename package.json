@@ -1,0 +1,28 @@
+{
+  "name": "mongodb-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "mongoose": "^5.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keljopap/mongodb-node.git"
+  },
+  "author": "Kelli Pape",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keljopap/mongodb-node/issues"
+  },
+  "homepage": "https://github.com/keljopap/mongodb-node#readme"
+}
